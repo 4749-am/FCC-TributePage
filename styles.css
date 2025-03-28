@@ -18,7 +18,7 @@ h1 {
 h2 {
   text-align: center;
   margin-bottom: 50px;
-  text-shadow: 2px 2px 5px white;
+  text-shadow: 2px 2px 5px hsl(0,0%,83%);
 }
 
 img {
@@ -42,4 +42,8 @@ a {
   display: block;
   text-align: center;
   margin-bottom: 50px;
+  font-size: 20px;
+  color: hsl(0,0%,0%);
+  font-weight: bold;
+  text-shadow: 2px 2px 5px hsl(0,0%,83%) ;
 }
